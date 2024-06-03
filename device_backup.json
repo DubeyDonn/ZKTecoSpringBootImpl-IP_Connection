@@ -1,0 +1,767 @@
+{
+  "isOnlyRFMachine": "",
+  "lockPowerKey": "69",
+  "language": "0",
+  "productTime": "",
+  "deviceName": "2022-01-04 07:30:30",
+  "deviceId": "100",
+  "attendanceRecords": [
+    {
+      "userSN": 1,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1703051638000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 2,
+      "userID": "3",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1703051832000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 3,
+      "userID": "2",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1703051890000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 4,
+      "userID": "2",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1703058706000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 5,
+      "userID": "2",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1703069047000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 6,
+      "userID": "2",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716541478000,
+      "verifyState": "OT_OUT"
+    },
+    {
+      "userSN": 7,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716541638000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 8,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716541645000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 9,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716541682000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 10,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716547039000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 11,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716547110000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 12,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716547125000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 13,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716552254000,
+      "verifyState": "CHECK_OUT"
+    },
+    {
+      "userSN": 14,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785376000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 15,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785379000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 16,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785380000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 17,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785382000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 18,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785383000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 19,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785384000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 20,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785387000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 21,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785388000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 22,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785390000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 23,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785394000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 24,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785395000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 25,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785397000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 26,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785401000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 27,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785404000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 28,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785421000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 29,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785443000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 30,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785444000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 31,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785445000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 32,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785446000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 33,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785447000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 34,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785448000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 35,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785449000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 36,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785452000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 37,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785454000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 38,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785456000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 39,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785458000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 40,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785461000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 41,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785463000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 42,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785468000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 43,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785470000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 44,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785472000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 45,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785474000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 46,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716785477000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 47,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786117000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 48,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786120000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 49,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786123000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 50,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786140000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 51,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786143000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 52,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786145000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 53,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786147000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 54,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786151000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 55,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786154000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 56,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786156000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 57,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786271000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 58,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786337000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 59,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786408000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 60,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716786419000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 61,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716787470000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 62,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716788279000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 63,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716788811000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 64,
+      "userID": "2",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716790403000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 65,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716798397000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 66,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716798402000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 67,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716798406000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 68,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716798408000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 69,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716798460000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 70,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805536000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 71,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805538000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 72,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805541000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 73,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805544000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 74,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805546000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 75,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805550000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 76,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805553000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 77,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805561000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 78,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805564000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 79,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805571000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 80,
+      "userID": "1",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716805578000,
+      "verifyState": "OT_IN"
+    },
+    {
+      "userSN": 81,
+      "userID": "3",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716889052000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 82,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716889130000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 83,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716889168000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 84,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716889322000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 85,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716889331000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 86,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716889358000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 87,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716889565000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 88,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716892260000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 89,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716893260000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 90,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1716893630000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 91,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717042356000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 92,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717045729000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 93,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717046797000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 94,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717047144000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 95,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717048136000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 96,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717048196000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 97,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717048214000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 98,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717048227000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 99,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717048417000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 100,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717048771000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 101,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717049720000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 102,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717049738000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 103,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717050628000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 104,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717051180000,
+      "verifyState": "CHECK_IN"
+    },
+    {
+      "userSN": 105,
+      "userID": "4",
+      "verifyType": "FINGERPRINT",
+      "recordTime": 1717051535000,
+      "verifyState": "CHECK_IN"
+    }
+  ],
+  "voiceOn": "0",
+  "platform": "1",
+  "mac": "A6F5215360511",
+  "pin2Width": "K40 Pro/ID",
+  "deviceStatus": {},
+  "proxyServerIP": "1",
+  "faceVersion": "00:17:61:11:d7:f1",
+  "workCode": false,
+  "commKey": "4370",
+  "daylightSavingTime": "0",
+  "proxyServerPort": "0.0.0.0",
+  "fpVersion": 7,
+  "state": 0,
+  "firmwareVersion": "~IsOnlyRFMachine=0",
+  "deviceIP": "0",
+  "serialNumber": "ZLM60_TFT",
+  "dns": "1",
+  "showState": "9",
+  "oemVendor": "10",
+  "devicePort": "192.168.0.201",
+  "enableProxyServer": "0.0.0.0",
+  "isDHCP": "1"
+}
