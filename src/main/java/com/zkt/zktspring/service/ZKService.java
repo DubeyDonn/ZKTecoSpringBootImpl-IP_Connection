@@ -20,8 +20,14 @@ public class ZKService {
 
     private final AttendanceRecordRepository attendanceRecordRepository;
 
+    // change the COM key to the key of the ZK terminal for authentication
+    // add the IP address, port number of the ZK terminal here
+    private final int comKey = 100;
+    private final String ipAddress = "192.168.0.28";
+    private final int port = 4370;
+
     public ZKService() {
-        this.terminal = new ZKTerminal("192.168.0.28", 4370);
+        this.terminal = new ZKTerminal(ipAddress, port);
         this.userInfoRepository = new UserInfoRepository();
         this.attendanceRecordRepository = new AttendanceRecordRepository();
     }
@@ -29,7 +35,7 @@ public class ZKService {
     public ZKCommandReply connect() throws Exception {
 
         ZKCommandReply reply = terminal.connect();
-        if (terminal.connectAuth(100).getCode() == CommandReplyCodeEnum.CMD_ACK_OK) {
+        if (terminal.connectAuth(comKey).getCode() == CommandReplyCodeEnum.CMD_ACK_OK) {
             return reply;
         } else {
             throw new Exception("Connection failed");
